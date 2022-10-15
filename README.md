@@ -1,4 +1,4 @@
-## Diga oi para a sarah!
+## Diga oi para a Sarah!
 
 - Fiz uma IA que fala com você.
 - Bem, era pra ser uma IA, mas saiu a Sarah, não xingue ela!
