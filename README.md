@@ -1,4 +1,6 @@
-## RPG estilo Zork
+## Diga oi pra sarah!
 
-- Basicamente um rpg no estilo Zork
-- Link para saber o que é Zork (<a href="https://en.wikipedia.org/wiki/Zork">Link</a>)
+- Fiz uma IA que fala com você.
+- Bem, era pra ser uma IA, mas saiu a Sarah, não xingue ela!
+- Você digita os comandos, dependendo da sua resposta ela responde de um jeito.
+- Feito interante com c#
